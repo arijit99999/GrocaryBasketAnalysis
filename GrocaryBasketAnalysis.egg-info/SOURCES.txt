@@ -1,0 +1,5 @@
+setup.py
+GrocaryBasketAnalysis.egg-info/PKG-INFO
+GrocaryBasketAnalysis.egg-info/SOURCES.txt
+GrocaryBasketAnalysis.egg-info/dependency_links.txt
+GrocaryBasketAnalysis.egg-info/top_level.txt
