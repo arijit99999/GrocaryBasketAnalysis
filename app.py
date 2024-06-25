@@ -1,9 +1,6 @@
 from flask import Flask, request, render_template
 import pandas as pd
 import os
-import sys
-from src.GrocaryBasketAnalysis.logger import logging
-from src.GrocaryBasketAnalysis.exception import customexception
 from src.GrocaryBasketAnalysis.utlis.utils import load_object
 from mlxtend.frequent_patterns import apriori,association_rules
 
