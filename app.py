@@ -34,4 +34,4 @@ def forecast():
         return render_template('result.html',pred1=pred1,pred2=pred2)
              
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host=0.0.0.0,port=8080)

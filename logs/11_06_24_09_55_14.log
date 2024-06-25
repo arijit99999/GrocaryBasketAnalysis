@@ -1,0 +1,19 @@
+20--INFO--2024-06-11 09:55:15,669--data ingestion started
+25--INFO--2024-06-11 09:55:17,341--row data saved 
+26--INFO--2024-06-11 09:55:17,341--remove null values 
+28--INFO--2024-06-11 09:55:17,383--remove null values from item columns 
+30--INFO--2024-06-11 09:55:17,454--remove null values from daatset 
+32--INFO--2024-06-11 09:55:17,634--remove duplicate values from daatset 
+34--INFO--2024-06-11 09:55:17,774--create a list using all items WTR of customerid
+15--INFO--2024-06-11 09:55:17,790--pickle dump succesfully
+36--INFO--2024-06-11 09:55:17,790--saved list data
+21--INFO--2024-06-11 09:55:17,798--trasnformation initiated
+23--INFO--2024-06-11 09:55:17,820--import list
+30--INFO--2024-06-11 09:55:34,456--save model data
+15--INFO--2024-06-11 09:55:34,457--pickle dump succesfully
+32--INFO--2024-06-11 09:55:34,457--save encoder
+28--INFO--2024-06-11 09:55:35,299--read model data
+30--INFO--2024-06-11 09:55:35,342--remove column
+32--INFO--2024-06-11 09:55:37,995--support we calculate minimum thresold is 5%
+35--INFO--2024-06-11 09:55:38,011--we saved support
+37--INFO--2024-06-11 09:55:38,016--confidence thresold is .5 minimum
